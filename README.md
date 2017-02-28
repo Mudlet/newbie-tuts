@@ -6,14 +6,15 @@ If you know how difficult explaining to someone what a MUD is, then you'll under
 
 It should:
 * guide people how to connect to a MUD when they open Mudlet for the first time
-* pre-install on the first 3 profiles that the new mudder creates, and
-* include an aesthetic and functional graphical UI that:
-  * includes many, many sample aliases and show people how to try them out
-  * walks people through making their own aliases
-  * same for triggers - includes many, many triggers that do various things and an easy way to showcase them
-  * walk people through making their own triggers
-  * same for scripts, keys, timers, buttons
-  * it shouldn't limit itself - making UIs, using GMCP, everything you can do in Mudlet should be included
+* pre-install on the first 3 profiles that the new mudder creates
+* include examples on how to make _everything_ in mudlet, so it should have:
+* many, many sample aliases and show people how to try them out
+* same for triggers - includes many, many triggers that do various things and an easy way to showcase them
+* same for scripts, keys, timers, buttons
+* it shouldn't limit itself - making UIs, using GMCP, everything you can do in Mudlet should be included
+* on top of all of these things available in the Mudlet editor, a UI should also introduce all of this to the newbie in a friendly manner - because opening up a folder with 100 aliases in it is going to be overwhelming. The UI also should:
+  * walk people through making their own aliases, triggers, scripts, etc using some sort of a step-by-step tutorial system
+* everything should be easy to try out, so people can fiddle with an example and re-try it to see the result
 * this project in itself should be copy/pasteable; it will follow Mudlet best practices for developing packages and enable people to get setup with their own projects
   
 Interested in seeing this a reality? [Join us on Discord](https://discord.gg/mJKkBv6)!
