@@ -15,7 +15,7 @@ It should:
   * and the same for scripts, keys, timers, buttons
   * it shouldn't stop anywhere - making UIs, using GMCP, everything should be included
   
-Interested in seeing this a reality? Join us on Discord!
+Interested in seeing this a reality? [Join us on Discord](https://discord.gg/mJKkBv6)!
 
 # license
 Hands down, the best way to learn in MUDs is by copy/pasting. Hence, all code in this project is under the MIT license and all of the artwork is under the CC0 license to enable people maximum re-use.
