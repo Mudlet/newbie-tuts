@@ -1,5 +1,5 @@
 # newbie-tuts
-A tutorial for new users on how to get started with Mudlet, everything from connecting to a game to making your triggers and UIs.
+Copy/pasteable tutorials for new users on getting started with Mudlet, everything from connecting to a game to making your triggers and UIs.
 
 # vision
 If you know how difficult explaining to someone what a MUD is, then you'll understand the need for this! MUDs aren't graphical, scrolling text isn't an idea that comes naturally, yet the freedom they offer is unparalleled. This project aims to help newbies get jumpstarted in using Mudlet to play MUDs - how to make aliases, triggers, and provide plenty of examples for people to copy/paste from.
