@@ -23,5 +23,8 @@ It should:
   
 Interested in seeing this a reality? [Join us on Discord](https://discord.gg/mJKkBv6)!
 
+# design principles
+* duplicate the content: a) tutorials for creating the content to teach people how to make stuff, and b) all outputs of the tutorial should be available in their profile for copy/pasting from, in case they've already done it and just want an example to start with
+
 # license
 Hands down, the best way to learn in MUDs is by copy/pasting. Hence, all code in this project is under the MIT license and all of the artwork is under the CC0 license to enable people maximum re-use.
