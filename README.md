@@ -3,7 +3,7 @@ Copy/pasteable tutorials for new users on getting started with Mudlet, everythin
 
 # is it ready yet?
 
-**NO!** This is still a work in progress. Please direct newbies who want to learn to the [screencasts](www.mudlet.org/media/) and [Mudlet Manual](http://wiki.mudlet.org/w/Manual:Contents) instead, there are lots of examples and walkthoughs to follow there.
+**NO!** This is still a work in progress. Please direct newbies who want to learn to the [screencasts](http://www.mudlet.org/media/) and [Mudlet Manual](http://wiki.mudlet.org/w/Manual:Contents) instead, there are lots of examples and walkthoughs to follow there.
 
 # vision
 If you know how difficult explaining to someone what a MUD is, then you'll understand the need for this! MUDs aren't graphical, scrolling text isn't an idea that comes naturally, yet the freedom they offer is unparalleled. This project aims to help newbies get jumpstarted in using Mudlet to play MUDs - how to make aliases, triggers, and provide plenty of examples for people to copy/paste from.
